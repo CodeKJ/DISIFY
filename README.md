@@ -19,6 +19,8 @@ API usage documentation included in website.
 
 **Website:** https://disify.com
 
+**Documentation:** https://docs.disify.com
+
 *This is totally free service made just for passion. I hope its useful, enjoy!*
 
 ---
